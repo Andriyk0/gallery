@@ -4,6 +4,8 @@ Dependencies Node v16.15.1 and higher NPM v6.14.5 and higher,
 -Run npx react-native start in one terminal;
 -Run npx react-native run-android in second terminal;
 
+![image](https://user-images.githubusercontent.com/88550569/181906675-11e08a39-f67d-4d1a-9f5e-f8c88fc76a9b.png)
+
 Необходимые к применению технологии:
 * React-Native
 * Redux + Async Redux library (redux-thunk, redux-saga, e.g.)
